@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Padre from './components/Padre.vue';
+import Padre from './components/Padre/Padre.vue';
 
 export default {
   name: 'App',
