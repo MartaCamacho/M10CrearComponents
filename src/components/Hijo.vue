@@ -4,4 +4,4 @@
   </div>
 </template>
 
-<script src="../assets/scripts/Hijo.js"></script>
+<script src="../scripts/Hijo.js"></script>
