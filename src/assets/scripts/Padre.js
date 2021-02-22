@@ -1,4 +1,4 @@
-import Hijo from '../Hijo/Hijo.vue';
+import Hijo from '../../components/Hijo.vue';
 
 export default {
     components: {

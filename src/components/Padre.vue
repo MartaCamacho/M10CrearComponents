@@ -5,4 +5,4 @@
   </div>
 </template>
 
-<script src="./Padre.js"></script>
+<script src="../assets/scripts/Padre.js"></script>
